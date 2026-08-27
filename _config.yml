@@ -1,3 +1,6 @@
+title: The Space Outlaw network 
+tagline: Top secret project
+description: This website shows who is operating as network node!
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
